@@ -14,7 +14,6 @@ html {
     font-size: 4em;
     font-weight: 200;
     color: var(--main-font-color);
-    height: 100%;
     padding: 10px;
     margin-left:20%;
 }
@@ -22,7 +21,6 @@ html {
 /* --------------- CONTENT  --------------- */
 .grid .center #content {
     color: var(--main-font-color);
-    height: 100%;
 }
 
 

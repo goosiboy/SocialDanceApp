@@ -2,11 +2,11 @@
     display: grid;
     position: relative;
     grid-template-columns: 
-                        35% auto 35%;
+                        10% auto 10%;
 
     grid-template-rows: 
                         1px
-                        150px
+                        60px
                         auto
                         70px;
 
@@ -33,9 +33,9 @@
         grid-template-columns: 100%;
         grid-template-rows: 1px
                             100px 
-                            50px 
+                            20px 
                             1fr
-                            50px 
+                            20px 
                             30px;
     }
 }
@@ -64,10 +64,9 @@
     grid-area: footer;
 }
 
-/* Set a border to the grid divs for easier debugging 
+/* Set a border to the grid divs for easier debugging */
 .grid div {
     -webkit-box-shadow:inset 0px 0px 0px 1px rgb(214, 214, 214);
     -moz-box-shadow:inset 0px 0px 0px 1px rgb(214, 214, 214);
     box-shadow:inset 0px 0px 0px 1px rgb(214, 214, 214);
 }
-*/
