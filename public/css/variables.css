@@ -1,0 +1,18 @@
+/* VARS */
+/* Colors: https://coolors.co/28536b-c2948a-7ea8be-f6f0ed-bbb193 */
+:root {
+    --main-bg-color: #f6f0ed;
+    --main-button-color: #c2948a;
+    --main-button-color-hover: #b3857b;
+    --main-button-color-active: #c2948a;
+    --main-font-color: #28536b;
+    --main-font-color-2: #7ea8be;
+    --main-button-color-2: #bbb193;
+    --main-gameMenu-color: #f0c9b7;
+    --main-gameMenu-border-color: #c79c88;
+    --gameMenuOverlay-bg-color: #f0d6ca9c;
+}
+
+:root {
+    --border-radius: 5px;
+}
